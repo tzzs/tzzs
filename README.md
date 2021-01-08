@@ -1,20 +1,8 @@
 ### Hi there 👋
 
-
-
-### my site
-
-
-
-
-
-
-
 ![](https://github-readme-stats.vercel.app/api?username=tzzs)
 
 ## my site
-
-
 
 ### 📝BLOG: https://imtzz.com
 
