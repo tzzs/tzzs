@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=tzzs)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=tzzs) -->
 
 ## my site
 
-### 📝BLOG: https://imtzz.com
+### 📝BLOG: imtzz.com
 
-### 🖼BING2: https://bing2.imtzz.com
+### 🖼BING2: bing2.imtzz.com
 
 
 
