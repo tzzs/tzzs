@@ -4,12 +4,9 @@
 
 ## my site
 
-### 📝BLOG: imtzz.com
-
-### 🖼BING2: bing2.imtzz.com
-
-
-
+- 📝 blog: [imtzz.com](https://imtzz.com)
+- 🌱 I’m currently learning Eureka、Vue.js and Spring Cloud...
+- 📫 How to reach me: [Email](mailto:tzzprc@outlook.com)
 <!--
 **tzzs/tzzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
