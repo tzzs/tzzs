@@ -4,7 +4,8 @@
 
 ## my site
 
-- 📝 blog: [imtzz.com](https://imtzz.com)
+- 📝 blog: [https://imtzz.com](https://imtzz.com)
+- 🔭 bing2: [http://bing2.imtzz.com](http://bing2.imtzz.com) beautiful and incomparable images。
 - 🌱 I’m currently learning Eureka、Vue.js and Spring Cloud...
 - 📫 How to reach me: [Email](mailto:tzzprc@outlook.com)
 <!--
