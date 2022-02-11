@@ -6,7 +6,7 @@
 
 - 📝 blog: [https://imtzz.com](https://imtzz.com)
 - 🔭 bing2: [http://bing2.imtzz.com](http://bing2.imtzz.com) beautiful and incomparable images。
-- 🌱 I’m currently learning Eureka、Vue.js and Spring Cloud...
+- 🌱 I’m currently learning Spring Cloud...
 - 📫 How to reach me: [Email](mailto:tzzprc@outlook.com)
 <!--
 **tzzs/tzzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
