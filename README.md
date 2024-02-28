@@ -4,8 +4,9 @@
 
 ## my site
 
-- 📝 blog: [https://imtzz.com](https://imtzz.com)
-- 🔭 bing2: [http://bing2.imtzz.com](http://bing2.imtzz.com) beautiful and incomparable images。
+- 📝 blog: [https://tzzs.github.io](https://tzzs.github.io)
+- ~🔭 bing2: [http://bing2.imtzz.com](http://bing2.imtzz.com) beautiful and incomparable images.~
+- 🔭 I’m currently working as a Development Engineer.
 - 🌱 I’m currently learning Spring Cloud...
 - 📫 How to reach me: [Email](mailto:tzzprc@outlook.com)
 <!--
