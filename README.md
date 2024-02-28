@@ -1,6 +1,6 @@
 <img src="header.png"/>
 
-### <center>👋 Hi! I'm Tzzs.</center>
+# <center>👋 Hi! I'm Tzzs.</center>
 
 <p align="right">
 
