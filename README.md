@@ -8,7 +8,7 @@
 
 </p>
 
-## my site
+## ⚡About me
 
 - 📝 Blog: [https://tzzs.github.io](https://tzzs.github.io)
 - 🔭 I’m currently working as a Development Engineer.
